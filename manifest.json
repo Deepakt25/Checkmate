@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Resume Keyword Checker",
+  "version": "1.0",
+  "description": "Check for missing keywords in resume compared to job description.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
